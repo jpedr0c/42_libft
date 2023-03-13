@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://github.com/jpedr0c/42_libft">
+<img src="./libft.png" height="120" width="120">
+</a>
+</p>
 <h1 align=center>
   <strong> LIBFT </strong>
 </h1>
@@ -7,7 +12,7 @@
   <sub>
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#table-of-contents)
 
 <p align="center">
   <a href="#About"> 💡 About the project </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
